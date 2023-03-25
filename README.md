@@ -6,8 +6,8 @@ Here you can know about myself.
 
 
 -SO Let's Dive more into my interest "~'
- -I'm a motiviational individual looking for some more valuable and exicting career options.
- -I'm Open to work as an Software Developer, Android application developer and a full stack web developer.
+ - I'm a motiviational individual looking for some more valuable and exicting career options.
+ - I'm Open to work as an Software Developer, Android application developer and a full stack web developer.
 
 -Some of the language i mostly use while developing my skills are
  - Programming Languages:- Python, Java, C++, C# (beginner)!
