@@ -10,10 +10,10 @@ Here you can know about myself.
  - I'm Open to work as an Software Developer, Android application developer and a full stack web developer.
 
 -Some of the language i mostly use while developing my skills are
- - Programming Languages:- Python, Java, C++, C#(beginner)
+ - Programming Languages:- Python, Java, C++, C#(beginner).
  - Web Developing languages:- HTML,CSS ,SQL ,PHP ,React , JavaScript.
  - Android Application Languages:- Java, Kotlin, React Native.
-  ![inte](https://user-images.githubusercontent.com/113616480/227703285-68eb7627-6164-4668-8d78-f9e85f513d0b.gif)
+![inte](https://user-images.githubusercontent.com/113616480/227703285-68eb7627-6164-4668-8d78-f9e85f513d0b.gif)
 
 
   
