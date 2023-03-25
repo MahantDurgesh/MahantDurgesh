@@ -12,9 +12,10 @@ Here you can know about myself.
 --->Some of the language i mostly use while developing my skills are
  - Programming Languages:- Python, Java, C++, C# (beginner)!
  - Web Developing languages:- HTML,CSS ,SQL ,PHP ,React , JavaScript.
- -  -  Android Application Languages:- Java, Kotlin, React Native.
+ - Android Application Languages:- Java, Kotlin, React Native.
  - ![work](https://user-images.githubusercontent.com/113616480/227701952-002dd6ac-58bb-4483-a0dd-49dcadf0d8e7.gif)
- <---
+ <---![workgif](https://user-images.githubusercontent.com/113616480/227703144-ea62d6fe-be05-4170-a674-759121d0d490.gif)
+
   
  -You can go through my all projects from here- https://github.com/MahantDurgesh?tab=repositories
  
