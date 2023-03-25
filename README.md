@@ -1,13 +1,13 @@
 ### Hi there 👋
 Here you can know about myself.
 
---I'm Durgesh Mahant, pursing my B-Tech degree in Computer Science and Engineering.
+--I'm Durgesh Mahant, pursuing my B-Tech degree in Computer Science and Engineering.
                        ![workgif](https://user-images.githubusercontent.com/113616480/227703144-ea62d6fe-be05-4170-a674-759121d0d490.gif)
 
 
 -SO Let's Dive more into my interest "~'--->
--I'm a motiviational individual looking for some more valuable and exicting career options.
--I'm Open to work as an Software Developer, Android application developer and a full stack web developer.
+ -I'm a motiviational individual looking for some more valuable and exicting career options.
+ -I'm Open to work as an Software Developer, Android application developer and a full stack web developer.
 
 --->Some of the language i mostly use while developing my skills are
  - Programming Languages:- Python, Java, C++, C# (beginner)!
