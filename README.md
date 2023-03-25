@@ -3,6 +3,8 @@ Here you can know about myself.
 
 --I'm Durgesh Mahant.
 --pursing my B-Tech degree in Computer Science and Engineering.
+![workgif](https://user-images.githubusercontent.com/113616480/227703144-ea62d6fe-be05-4170-a674-759121d0d490.gif)
+
 
 -SO Let's Dive more into my interest "~'--->
 -I'm a motiviational individual looking for some more valuable and exicting career options.
@@ -14,7 +16,7 @@ Here you can know about myself.
  - Web Developing languages:- HTML,CSS ,SQL ,PHP ,React , JavaScript.
  - Android Application Languages:- Java, Kotlin, React Native.
  - ![work](https://user-images.githubusercontent.com/113616480/227701952-002dd6ac-58bb-4483-a0dd-49dcadf0d8e7.gif)
- <---![workgif](https://user-images.githubusercontent.com/113616480/227703144-ea62d6fe-be05-4170-a674-759121d0d490.gif)
+ <---
 
   
  -You can go through my all projects from here- https://github.com/MahantDurgesh?tab=repositories
