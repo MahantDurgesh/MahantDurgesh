@@ -18,5 +18,3 @@ I'm Durgesh Mahant, pursuing my B-Tech degree in Computer Science and Engineerin
  - You can go through my all projects from here- https://github.com/MahantDurgesh?tab=repositories .
  
  - Incase you want to connect with me, you can write here:- durgeshsmahant06@gmail.com .
-- 
-- 
