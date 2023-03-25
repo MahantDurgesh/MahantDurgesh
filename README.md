@@ -10,23 +10,12 @@ I'm Open to work as an Software Developer, Android application developer and a f
 <---
 
 --->Some of the language i mostly use while developing my skills are
-**Programming Languages:- Python, Java, C++, C#(beginner)
+**Programming Languages:- Python, Java, C++, C#                               (beginner)![work](https://user-images.githubusercontent.com/113616480/227701843-ff5663f6-da92-4b54-ae7e-d62b96c44324.gif)
+
   Web Developing languages:- HTML,CSS ,SQL ,PHP ,React , JavaScript.
   Android Application Languages:- Java, Kotlin, React Native. <---
   
- You can go through my all projects from here-
-   
-<!--
-**MahantDurgesh/MahantDurgesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ You can go through my all projects from here- https://github.com/MahantDurgesh?tab=repositories
+ 
+ Incase you want to connect with me, you can write here:- durgeshsmahant06@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
