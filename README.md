@@ -15,7 +15,7 @@ Here you can know about myself.
  - Programming Languages:- Python, Java, C++, C# (beginner)!
  - Web Developing languages:- HTML,CSS ,SQL ,PHP ,React , JavaScript.
  - Android Application Languages:- Java, Kotlin, React Native.
-  ![work](https://user-images.githubusercontent.com/113616480/227701952-002dd6ac-58bb-4483-a0dd-49dcadf0d8e7.gif)![inte](https://user-images.githubusercontent.com/113616480/227703285-68eb7627-6164-4668-8d78-f9e85f513d0b.gif)
+  ![inte](https://user-images.githubusercontent.com/113616480/227703285-68eb7627-6164-4668-8d78-f9e85f513d0b.gif)
 
 
   
