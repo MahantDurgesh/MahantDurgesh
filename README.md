@@ -3,6 +3,8 @@ Here you can know about myself.
 
 --I'm Durgesh Mahant, pursuing my B-Tech degree in Computer Science and Engineering.
                        ![workgif](https://user-images.githubusercontent.com/113616480/227703144-ea62d6fe-be05-4170-a674-759121d0d490.gif)
+![in](https://user-images.githubusercontent.com/113616480/227718791-1241e753-02a2-4367-bd04-f7772491bf02.gif)
+                       
 
 
 -SO Let's Dive more into my interest "~'
