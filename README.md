@@ -1,7 +1,8 @@
 ### Hi there 👋
 Here you can know about myself.
 
-<h5 align="center">I'm Durgesh Mahant, pursuing my B-Tech degree in Computer Science and Engineering.<h5>
+<h3 align="center">I'm Durgesh Mahant, pursuing my B-Tech degree in Computer Science and Engineering.<h5>
+  
                        ![intro](https://user-images.githubusercontent.com/113616480/228749476-3401afd7-a158-47ac-ba71-c675d208a108.gif)
 
 - 
