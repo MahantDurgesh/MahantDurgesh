@@ -3,9 +3,9 @@ Here you can know about myself.
 
 <h3 align="center">I'm Durgesh Mahant, pursuing my B-Tech degree in Computer Science and Engineering.<h5>
   
-                    ![intro](https://user-images.githubusercontent.com/113616480/228777442-b105a963-fb01-4892-8024-e5454de95ebf.gif)
+                    
+- ![intro](https://user-images.githubusercontent.com/113616480/228777966-12077382-120c-427f-b93e-3a3cb662441d.gif)
 
-- 
 
 -SO Let's Dive more into my interest-
  - I'm a motiviated individual looking for some more valuable and exicting career options.
