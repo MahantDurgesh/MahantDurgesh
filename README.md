@@ -3,7 +3,7 @@ Here you can know about myself.
 
 <h3 align="center">I'm Durgesh Mahant, pursuing my B-Tech degree in Computer Science and Engineering.<h5>
   
-                       <img src= ![intro](https://user-images.githubusercontent.com/113616480/228777442-b105a963-fb01-4892-8024-e5454de95ebf.gif) align="center">
+                    ![intro](https://user-images.githubusercontent.com/113616480/228777442-b105a963-fb01-4892-8024-e5454de95ebf.gif)
 
 - 
 
