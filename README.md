@@ -6,7 +6,7 @@ I'm Durgesh Mahant, pursuing my B-Tech degree in Computer Science and Engineerin
 - 
 
 -SO Let's Dive more into my interest-
- - I'm a motiviational individual looking for some more valuable and exicting career options.
+ - I'm a motiviated individual looking for some more valuable and exicting career options.
  - I'm open to work as an Software Developer, Android application developer and a full stack web developer.
 
 -Some of the language I mostly use while developing my skills are
