@@ -3,7 +3,7 @@ Here you can know about myself.
 
 <h3 align="center">I'm Durgesh Mahant, pursuing my B-Tech degree in Computer Science and Engineering.<h5>
   
-                       ![intro](https://user-images.githubusercontent.com/113616480/228749476-3401afd7-a158-47ac-ba71-c675d208a108.gif)
+                       <img src=![intro](https://user-images.githubusercontent.com/113616480/228777442-b105a963-fb01-4892-8024-e5454de95ebf.gif) align="center">
 
 - 
 
@@ -17,6 +17,7 @@ Here you can know about myself.
  - Android Application Languages:- Java, Kotlin, React Native.                     ![inte](https://user-images.githubusercontent.com/113616480/227703285-68eb7627-6164-4668-8d78-f9e85f513d0b.gif)
 
 -Connectivities:-
+
  - You can go through my all projects from here- https://github.com/MahantDurgesh?tab=repositories .
  
  - Incase you want to connect with me, you can write here:- durgeshsmahant06@gmail.com .
