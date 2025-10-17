@@ -5,6 +5,9 @@
 software development principles. Proficient in multiple programming languages and frameworks with a strong foundation in
 software engineering principles.
 
+💡 *Passionate about **mobile and web application development** and building **scalable AI-powered solutions** that make a real-world impact.*
+
+
 ### 🚀 Open For
 - 🧩 **Open Source Contributions** — looking to contribute to meaningful projects  
 - 💼 **Freelancing Opportunities** — available for web and mobile app development projects  
