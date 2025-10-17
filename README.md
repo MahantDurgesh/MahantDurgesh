@@ -1,5 +1,6 @@
 # 👋 HEY, I'm Durgesh Mahant
-🎓 I'm currently pursuing my **Master of Technology (M.Tech)** in **Computer Engineering** — *2nd Year*
+🎓 I'm currently pursuing my **Master of Technology (M.Tech)** in **Computer Engineering** — *2nd Year*.
+
 🧬 Passionate Computer Science Master Student seeking Software Developer roles to apply coding skills, algorithm design, and
 software development principles. Proficient in multiple programming languages and frameworks with a strong foundation in
 software engineering principles.
