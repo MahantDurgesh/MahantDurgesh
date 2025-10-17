@@ -12,7 +12,7 @@ software engineering principles.
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)
 
 ### 📊 GitHub Stats
-![Durgesh's GitHub stats][(https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical](https://github.com/MahantDurgesh))
+![Durgesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Durgesh-25&show_icons=true&theme=radical)
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
