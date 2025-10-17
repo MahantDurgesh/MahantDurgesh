@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Alex!
-
-### 💻 About Me
+# 👋 HEY, I'M Durgesh Mahant
+🎓 I'm currently pursuing my **Master of Technology (M.Tech)** in **Computer Engineering** — *2nd Year*
 - 🌱 I’m currently learning **TypeScript** and **Next.js**
 - 🧠 I love building **open-source tools** and **UI libraries**
 - 🚀 Passionate about **clean code** and **developer experience**
