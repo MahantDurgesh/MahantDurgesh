@@ -5,6 +5,11 @@
 software development principles. Proficient in multiple programming languages and frameworks with a strong foundation in
 software engineering principles.
 
+### 🚀 Open For
+- 🧩 **Open Source Contributions** — looking to contribute to meaningful projects  
+- 💼 **Freelancing Opportunities** — available for web and mobile app development projects  
+- 🌱 **Startup Collaborations** — love helping early-stage ideas grow through technology
+
 ### 🛠️ Tech Stack
 
 #### 💬 Programming Languages
